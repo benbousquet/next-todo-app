@@ -1,0 +1,11 @@
+.done {
+  text-decoration: line-through;
+}
+.itemList {
+  display: flex;
+  flex-direction: column;
+}
+.item {
+  display: flex;
+  flex-direction: row;
+}
